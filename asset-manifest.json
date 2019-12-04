@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a2c8074.chunk.css",
-    "main.js": "/static/js/main.0d8e699c.chunk.js",
-    "main.js.map": "/static/js/main.0d8e699c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9d601db.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9d601db.js.map",
-    "static/css/2.117ce29f.chunk.css": "/static/css/2.117ce29f.chunk.css",
-    "static/js/2.9afa7f0a.chunk.js": "/static/js/2.9afa7f0a.chunk.js",
-    "static/js/2.9afa7f0a.chunk.js.map": "/static/js/2.9afa7f0a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f19688d0fe80d880d9eccae4a6228ab7.js": "/precache-manifest.f19688d0fe80d880d9eccae4a6228ab7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.117ce29f.chunk.css.map": "/static/css/2.117ce29f.chunk.css.map",
-    "static/css/main.3a2c8074.chunk.css.map": "/static/css/main.3a2c8074.chunk.css.map"
+    "main.css": "/flexbox-playground/static/css/main.3a2c8074.chunk.css",
+    "main.js": "/flexbox-playground/static/js/main.546796e6.chunk.js",
+    "main.js.map": "/flexbox-playground/static/js/main.546796e6.chunk.js.map",
+    "runtime-main.js": "/flexbox-playground/static/js/runtime-main.38a10806.js",
+    "runtime-main.js.map": "/flexbox-playground/static/js/runtime-main.38a10806.js.map",
+    "static/css/2.117ce29f.chunk.css": "/flexbox-playground/static/css/2.117ce29f.chunk.css",
+    "static/js/2.9afa7f0a.chunk.js": "/flexbox-playground/static/js/2.9afa7f0a.chunk.js",
+    "static/js/2.9afa7f0a.chunk.js.map": "/flexbox-playground/static/js/2.9afa7f0a.chunk.js.map",
+    "index.html": "/flexbox-playground/index.html",
+    "precache-manifest.82a24e1fe570e67a4a3bc2d839cf31a6.js": "/flexbox-playground/precache-manifest.82a24e1fe570e67a4a3bc2d839cf31a6.js",
+    "service-worker.js": "/flexbox-playground/service-worker.js",
+    "static/css/2.117ce29f.chunk.css.map": "/flexbox-playground/static/css/2.117ce29f.chunk.css.map",
+    "static/css/main.3a2c8074.chunk.css.map": "/flexbox-playground/static/css/main.3a2c8074.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9d601db.js",
+    "static/js/runtime-main.38a10806.js",
     "static/css/2.117ce29f.chunk.css",
     "static/js/2.9afa7f0a.chunk.js",
     "static/css/main.3a2c8074.chunk.css",
-    "static/js/main.0d8e699c.chunk.js"
+    "static/js/main.546796e6.chunk.js"
   ]
 }
